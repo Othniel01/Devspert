@@ -689,7 +689,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  padding-left: 0.9rem !important;
+  padding-left: 0rem !important;
 }
 
 .service-container4-content > .service-container4-box:first-child {
